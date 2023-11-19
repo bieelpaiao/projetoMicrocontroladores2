@@ -10,9 +10,11 @@ A proposta do projeto consiste no desenvolvimento de uma fechadura eletrônica c
 
 ## Colaboradores
 
-Gabriel Enrico Alves do Nascimento
-[Gabriel Pedro Paião](https://github.com/bieelpaiao)
-Luiz Gustavo Esperidião de São José
+Gabriel Enrico Alves do Nascimento.
+
+[Gabriel Pedro Paião](https://github.com/bieelpaiao).
+
+Luiz Gustavo Esperidião de São José.
 
 ## Professora Responsável
 
